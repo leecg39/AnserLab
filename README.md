@@ -10,6 +10,7 @@
 | 위임 | Task 2부터 "WORKFLOW.md대로 해"로 AI에게 맡김 |
 | 보완 | 떠오르는 수정 사항은 GitHub 이슈로 남김(휴대폰 GitHub 앱 가능) |
 
+- 원문 흐름 정리: [docs/kingcrab-flow.md](docs/kingcrab-flow.md)
 - 작업 규칙: [WORKFLOW.md](WORKFLOW.md)
 - AI 에이전트용 지침: [AGENTS.md](AGENTS.md)
 - PRD 템플릿: [docs/PRD.md](docs/PRD.md)
